@@ -9,7 +9,7 @@
   
   This code was made it in JS to create a Weather Dashboard App with OpenWeatherMap.org Api.
 
-![Image of FullStackForce](https://i.postimg.cc/rpP7D0RV/dashboard.png)
+![Image of FullStackable](https://i.postimg.cc/rpP7D0RV/dashboard.png)
 
 Check my work  - Click!
-[HERE](https://fullstackforce.github.io/week-06-weather-dashboard/)
+[HERE](https://fullstackable.github.io/week-06-weather-dashboard/)
